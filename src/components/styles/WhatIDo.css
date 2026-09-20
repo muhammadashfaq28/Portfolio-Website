@@ -391,3 +391,20 @@
     line-height: 6.8rem;
   }
 }
+
+
+
+
+
+
+
+@media only screen and (max-width: 599px) {
+  .what-box .title {
+    white-space: nowrap;
+  }
+
+  .what-box .title > div {
+    display: inline;
+    margin-left: 8px;
+  }
+}
