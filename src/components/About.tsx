@@ -6,9 +6,8 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Hi, I’m Muhammad Ashfaq, a Software Developer specializing in React, Angular, ASP.NET Core, Node.js, TypeScript, SQL Server, MongoDB, and Next.js. I build modern, responsive, and user-friendly web applications.
+
         </p>
       </div>
     </div>

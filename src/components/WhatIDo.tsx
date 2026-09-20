@@ -90,22 +90,29 @@ const WhatIDo = () => {
               <h3>DEVELOP</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                I build modern, responsive, and scalable full-stack web applications
+                using modern frontend and backend technologies. I focus on clean UI,
+                REST APIs, authentication, database integration, and reliable software
+                solutions.
               </p>
+
               <h5>Skillset & tools</h5>
+
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
                 <div className="what-tags">React</div>
-                <div className="what-tags">Css</div>
+                <div className="what-tags">Angular</div>
+                <div className="what-tags">TypeScript</div>
+                <div className="what-tags">JavaScript</div>
+                <div className="what-tags">ASP.NET Core</div>
                 <div className="what-tags">Node.js</div>
-                <div className="what-tags">Next.js</div>
                 <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
+                <div className="what-tags">Next.js</div>
+                <div className="what-tags">SQL Server</div>
+                <div className="what-tags">MongoDB</div>
+                <div className="what-tags">REST APIs</div>
+                <div className="what-tags">Git & GitHub</div>
               </div>
+
               <div className="what-arrow"></div>
             </div>
           </div>
@@ -131,20 +138,26 @@ const WhatIDo = () => {
               <h3>DESIGN</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                I create clean, modern, and responsive web interfaces with a strong
+                focus on user experience, visual consistency, and responsive design.
+                I turn ideas and designs into functional and engaging web experiences.
               </p>
+
               <h5>Skillset & tools</h5>
+
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
                 <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">Web Design</div>
+                <div className="what-tags">Responsive Design</div>
+                <div className="what-tags">Figma</div>
+                <div className="what-tags">HTML</div>
+                <div className="what-tags">CSS</div>
+                <div className="what-tags">Bootstrap</div>
+                <div className="what-tags">Tailwind CSS</div>
+                <div className="what-tags">Figma to Code</div>
+                <div className="what-tags">User Experience</div>
               </div>
+
               <div className="what-arrow"></div>
             </div>
           </div>
